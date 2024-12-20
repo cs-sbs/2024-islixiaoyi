@@ -1,0 +1,4 @@
+Book{bookId=1, title='围城', author='钱钟书', publishDate='1947-01-01', isbn='9787532700001', description='中国现代文学经典作品，描绘了知识分子的生活和爱情。', category='Literature'}
+Book{bookId=2, title='活着', author='余华', publishDate='1993-06-01', isbn='9787532700002', description='讲述了一个普通农民在动荡年代的生活经历。', category='Literature'}
+Book{bookId=3, title='The Pragmatic Programmer', author='Andrew Hunt, David Thomas', publishDate='1999-10-20', isbn='9780201616224', description='A book on software development best practices.', category='Computer'}
+Book{bookId=4, title='三体', author='刘慈欣', publishDate='2008-05-01', isbn='9787538723001', description='科幻小说，讲述了人类与外星文明的首次接触。', category='Computer'}
